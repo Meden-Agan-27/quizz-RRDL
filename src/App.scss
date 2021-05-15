@@ -36,4 +36,7 @@ $input-shadow: none;
 @import '../node_modules/bulma/sass/components/navbar.sass';
 @import '../node_modules/bulma/sass/layout/hero.sass';
 @import '../node_modules/bulma/sass/layout/section.sass';
+// Import Extensions
+@import '../node_modules/bulma-extensions/bulma-checkradio/dist/css/bulma-checkradio.min.css';
+
 // view rawApp.sass hosted with ❤ by GitHub
